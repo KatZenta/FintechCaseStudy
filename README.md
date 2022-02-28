@@ -1,0 +1,2 @@
+# FintechCaseStudy
+Wealthsimple Case Study 
