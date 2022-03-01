@@ -1,7 +1,7 @@
 # FintechCaseStudy
 This case study will focus on Wealthsimple and dive into it background, landscape in fintech, the company's growth and innovation since lauch date, its impact in its fintech domain and the future for the company.
 # Wealthsimple- Canadian Millennials’ platform for trading stocks and cryptocurrencies
-<img src="https://user-images.githubusercontent.com/99312687/156111547-68bd3603-a6c1-4e13-af8e-884835564199.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/99312687/156111547-68bd3603-a6c1-4e13-af8e-884835564199.png" width="150" height="150">
 
 ## Overview and origin
 Wealthsimple was founded in Toronto in September 2014 by Michael Katchen who is currently the CEO of the company. Michael Katchen originally worked for 1000Memories, which was a Silicon Valley-based start-up. In 2012, Katchen was simply putting together a spreadsheet with tips for his colleagues to set up investment portfolios and Voilà! The inspiration for Wealthsimple was born. Thereafter, he returned to Toronto to launch his company in September 2014.  
@@ -22,6 +22,8 @@ While Wealthsimple is competing with other companies in its domain from the Unit
 
 The technologies that Wealthsimple use includes Javascript, Java, React, PostgreSQL, Ruby, TensorFlow, a range of Google analytics, Amazon S3 among many others. Stackshare shows a total of 61 tools used to run their business. This wide array of technologies allows the company to run an efficient and growing fintech company.
 ## Landscape
+<img src="https://user-images.githubusercontent.com/99312687/156112944-f04e1eb9-9b8c-4814-9aa1-8c993f0f3a4d.png" width="200" height="150">
+
 Wealthsimple provides a variety of financial services. The company provides a robo-advisory platform for investments and trading, as well as blockchain and cryptocurrencies. As wealthsimple has expanded it has added peer to peer cash transfers and offers savings and investment accounts for their clients.  
 
 Robo-advisory is a domain that millennials have been known to show a higher interest in, especially those with extra funds to invest. However, even with this adoption there is still substantial room for growth. Robo advice may have been perceived to be more for clients new to investing or clients with low investable assets but is now showing to appeal to a younger and wealthier crowd. About 15% of Generation X are using robo advisors. (backendbenchmarking) Robo advisors are intangible algorithms that help build a diversified portfolio based on your profit-risk preferences. Robo advisory has sustained its growth even within the pandemic. It’s been noted that the market size has increased from $827 billion assets under management to 987$ from 2019-2020. 
@@ -32,6 +34,8 @@ Major companies in the domain that are American include Betterment, Wealthfront,
 ## Results
 Wealthsimple has grown in success throughout the years in the fintech world. The company has been able to expand their company by adding financial services and options, merging with other fintech companies, working on future projects for the company and managing more and more assets every year. 
 ## Recommendations
+<img src="https://user-images.githubusercontent.com/99312687/156113334-275cf691-40e1-49eb-b480-a03bd1c0be80.png" width="150" height="100">
+
 This company is doing well in the Canadian market when it comes to robo-advisory as a platform for investments and trading stocks, however there are still improvements to be made. Two recommendations would include to expand the access of international U.S stocks available on their trading platform and to expand their blockchain and cryptocurrency involvement, for example adding a crypto wallet. As a user of Wealthsimple, I found there were many U.S stocks that I wanted to add to my portfolio but were not available on Wealthsimple’s platform. This would expand the use of their app and company since limited access to stock can deter avid stock traders and perhaps use a competitor such as Questrade. In addition, blockchain and cryptocurrency appears to be the future of fintech, thus expanding on this domain would help build and grow the company with the changing fintech market, keeping Wealthsimple relevant and competitive in the field. 
 
 Wealthsimple is an innovative company and is working on implementing the very recommendations suggested for the company. Recently on December 8, 2021, the company announced that for $10 per month using their plus option, clients can sell all U.S. stocks on the market with no commission and no foreign-exchange fees on trade. (Wealthsimple site) This will help draw in more Canadian millennials looking to trade internationally, specifically the U.S., without restrictions and keep current clients looking to expand their portfolio. 
