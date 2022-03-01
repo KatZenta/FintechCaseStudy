@@ -1,5 +1,5 @@
 # FintechCaseStudy
-This case study will focus on Wealthsimple and dive into it background, 
+This case study will focus on Wealthsimple and dive into it background, landscape in fintech, the company's growth and innovation since lauch date, its impact in its fintech domain and the future for the company.
 # Wealthsimple- Canadian Millennials’ platform for trading stocks and cryptocurrencies
 <img src="https://user-images.githubusercontent.com/99312687/156111547-68bd3603-a6c1-4e13-af8e-884835564199.png" width="100" height="100">
 
