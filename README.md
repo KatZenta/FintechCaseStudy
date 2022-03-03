@@ -32,7 +32,12 @@ Trends that have appeared in the robo-advisory domain are hybrid robo-advisors, 
 
 Major companies in the domain that are American include Betterment, Wealthfront, Vangaurd Digital Advisor, and Schwab intelligent portfolios. Meanwhile competitors of Wealthsimple in this domain in Canada are a mix of fintech companies and larger banks. These competitors include BMO Smartfolio, CI Direct Investing, iA WealthAssist, Justwealth, Nest Wealth, Questwealth, RBC InvestEase, Smart Money Invest, and VirtualWealth. These companies provide a variety of services and investment options and the leading competitors in robo-advisory in Canada according to MoneySense. 
 ## Results
-Wealthsimple has grown in success throughout the years in the fintech world. The company has been able to expand their company by adding financial services and options, merging with other fintech companies, working on future projects for the company and managing more and more assets every year. 
+Wealthsimple has grown in success throughout the years in the fintech world. The company has been able to expand their company by adding financial services and options, merging with other fintech companies, working on future projects for the company and managing more and more assets every year. Wealthsimple has made its way into the U.S. market in 2017, which at the time it was already the largest robo-advisory in Canada. 
+
+In 2021, Wealthsimple surpassed 2 million users in Canada, and increased from 1.5million in less than a year according to Emarketer. The company has experienced significant product growth in the last year or two, including cryptocurrency trading and peer-to-peer money transfer. The company has even expanded into the Neobank realm. These massive growths in the company is indicative of successful performance of Wealthsimple. 
+
+The company’s success has grown more so than most companies in the robo-advisory sector in Canadian fintech. Wealthsimple is expected to continue to grow. Its expansion into other fintech domains, like neobanking, proves the innovation of the company leads to and performance that is doing relatively well in its domain compared to other companies. 
+
 ## Recommendations
 <img src="https://user-images.githubusercontent.com/99312687/156113334-275cf691-40e1-49eb-b480-a03bd1c0be80.png" width="150" height="100">
 
